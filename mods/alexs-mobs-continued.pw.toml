@@ -1,0 +1,13 @@
+name = "Alex's Mobs Continued"
+filename = "alexsmobs-2.1.13-fabric+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kYIaHHfw/versions/sBKEY4Jz/alexsmobs-2.1.13-fabric%2B26.2.jar"
+hash-format = "sha512"
+hash = "368220d302112a500baef6398304c0d584272dbcf1f0c89d398ec377a8fba49b5432bf11f15bd391b54f18195270aaa6b17071f8996e5b0f4b95cbfb28625754"
+
+[update]
+[update.modrinth]
+mod-id = "kYIaHHfw"
+version = "sBKEY4Jz"

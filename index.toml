@@ -1,0 +1,174 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/alexs-mobs-continued.pw.toml"
+hash = "6557b7ed6280a1a09cfc89bcb89696922f0c1085b756920b21bb1e2aa9ad47ef"
+metafile = true
+
+[[files]]
+file = "mods/archers.pw.toml"
+hash = "0611870417199950928febebfc029d1f36f8d2888ef2bf509b51e10c6ee34a83"
+metafile = true
+
+[[files]]
+file = "mods/armor-model-api.pw.toml"
+hash = "04822dda582f87e32e9a169580791ae3d0de99e105f90b109891659407821117"
+metafile = true
+
+[[files]]
+file = "mods/bundle-api.pw.toml"
+hash = "1225bd3892be6154ba4289581da56d4f3fee2ff82901400d09ba976746a3f589"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "d8e89bbf487f5f5a59f9c2a3a7093ca83ba4ae2040c498348ad55b3f0bbc3385"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "7fa9592b9948b8809018a4e7c3ca7da4d19fc5ef8c03021414cb22ae0253f083"
+metafile = true
+
+[[files]]
+file = "mods/codxlib.pw.toml"
+hash = "ac549deb2456b294fd1d2d2ab755a76c225d8d644f78a8d5ab13353d11d5be34"
+metafile = true
+
+[[files]]
+file = "mods/coolrain.pw.toml"
+hash = "6f522e2469b617a66d68c37a623def1be4e1ad1900397576d12cf112d939603a"
+metafile = true
+
+[[files]]
+file = "mods/critical-strike.pw.toml"
+hash = "5863a6b2a5659448fe64ebc63803353c9dd78f9b044c042b7649e1daa280f66f"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "81e1662237f871f5e15d6285c08af23b2db26178e1d37f9fc17ca9d7f9135955"
+metafile = true
+
+[[files]]
+file = "mods/epherolib.pw.toml"
+hash = "1533acb9cd55870c54da34545bacfc4f4effdbbfc24d262ac9cbb2fb8ef9121f"
+metafile = true
+
+[[files]]
+file = "mods/experience-skills.pw.toml"
+hash = "41da95387f18eb406286bf19b1422248ebef2456d2ab98807f839e38f7683df5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "af4c96fcc59bec634f457bf7693496f203ceaac28a180e84a73c488a1a2895cb"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "78ce407126ff37a91690c85afbda6b42e7fa192f5bd2a84d1b9586f5aae12dcd"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "67a1afd24a7e99b679750be58900d395e888aea045b1e2b938e836db07deae2c"
+metafile = true
+
+[[files]]
+file = "mods/modern-chickens-fabric-1.0.0-custom+mc26.2.jar"
+hash = "29ddee410618be73bbb274e2b892d1ceb38ac1ba4877f88b66cf17b0c3741d08"
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "fa00f7dbf48bbcf6940248d3fd3629f43656c54006cc63d5560f9ca77ccd97a9"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "b50198eb8e2a0dc35afc70ed2f0919a1c2d11769876e4d55938d2d69dd148934"
+metafile = true
+
+[[files]]
+file = "mods/omnichest-1.0.0.jar"
+hash = "c9d54131139c04337829a3897529991b693e01fd8c721e386252d5f6f0ba5fbd"
+
+[[files]]
+file = "mods/paladins-and-priests.pw.toml"
+hash = "a84a0d845f9e4573a80d4359d6f2a30e5fe1d35de3fdf4a76690a31450280a7c"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "c0cda45c0b9cbc05935f935ab57268a12819e8cf85f1aef7e717b858e3f55bd2"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "958221cc09f9ac42c5133c986c34d22e57648472eeb215815caf0581d5f1ef2e"
+metafile = true
+
+[[files]]
+file = "mods/ranged-weapon-api.pw.toml"
+hash = "f3296dde5ec7da4793e6462b6aecd43df90a1729b381f0ce1c99bb5e2c74e466"
+metafile = true
+
+[[files]]
+file = "mods/rogues-and-warriors.pw.toml"
+hash = "ec44abb862053c16ec7931f6b13ab53b85e78c6baee12586c9e0500694687cab"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+hash = "4ab877d041f20f1492d1ff83888c3dd7dfae67eae298049fca1ee0a00ffdf3a7"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "566a59532a3429cb222b4ec92f9b307f42159016c2c4f3bcc25f32797224c3b1"
+metafile = true
+
+[[files]]
+file = "mods/skill-tree.pw.toml"
+hash = "af33d9d1ea10ccd6e740a7ae819948a916fb4b55feddf756a8b65ec61d7d6db8"
+metafile = true
+
+[[files]]
+file = "mods/skills.pw.toml"
+hash = "2204ff28b868e9bb67b39613da0559f14ea8f7f68d0def88f830d0723d2b9761"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "545374bd64c969402b9833f8fd8a7ccb29c7e50db333eb8491d7e8fa2e26a8b2"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "6b07c6d86350ce1247d613f65c847c4784d3ffb5a53cb7954399b3a98d4a0663"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "8853ace67ea75111fefee721fa7841bfec83bab715527b7b28a40221d466ffd0"
+metafile = true
+
+[[files]]
+file = "mods/structure-pool-api.pw.toml"
+hash = "f23688399c3f532c3246c63b0e715f8f53dce0b60f7e0e1ed70d2c6989d00d12"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-updated.pw.toml"
+hash = "a5b15314fb9b775d20b6b30eaa52046cea177b34197039627edda9f6de6f9ed4"
+metafile = true
+
+[[files]]
+file = "mods/wizards.pw.toml"
+hash = "db97bf5694f305e7610ec8082def3ede7c4603cd8d0fbc3496cdb49e4fb95bf0"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "35eada5f1c32f8f265685f301c00f81ed5aba8eaee7445c87803e628766bb9b8"
+metafile = true

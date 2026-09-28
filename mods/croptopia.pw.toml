@@ -1,0 +1,13 @@
+name = "Croptopia"
+filename = "croptopia-fabric-26.2-4.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e874d57294e5cf81f38fae459698b1e8c1b8dec8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8544537
+project-id = 415438

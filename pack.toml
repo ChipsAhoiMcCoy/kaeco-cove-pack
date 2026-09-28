@@ -1,0 +1,13 @@
+name = "Kaeco Cove"
+author = "RealChipsMcCoy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c071bb28214097a238425634f19515c7ae084aaa9a9dd9d483c1d932b28f285a"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.2"

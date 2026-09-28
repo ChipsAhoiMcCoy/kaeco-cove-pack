@@ -1,0 +1,13 @@
+name = "Experience Skills"
+filename = "experienceskills-fabric-26.2-26.2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MZGunaW2/versions/MDW7MieV/experienceskills-fabric-26.2-26.2.0.1.jar"
+hash-format = "sha512"
+hash = "c93379b4361344bc913beec402037db796c97b9fed4fc1442204badd0f2925219de0f674c7365e3e49a1af5a7a1ceac31327a970d4540aee858adf884ce45f02"
+
+[update]
+[update.modrinth]
+mod-id = "MZGunaW2"
+version = "MDW7MieV"
