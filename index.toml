@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-chickens-fabric-1.0.0-custom+mc26.2.jar"
-hash = "29ddee410618be73bbb274e2b892d1ceb38ac1ba4877f88b66cf17b0c3741d08"
+hash = "b00501ae782d7dbb69a7b159a7c017424cdfb64ef5be23f0981bd2b2fdb641c9"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
