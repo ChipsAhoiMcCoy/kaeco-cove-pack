@@ -90,8 +90,8 @@ hash = "b50198eb8e2a0dc35afc70ed2f0919a1c2d11769876e4d55938d2d69dd148934"
 metafile = true
 
 [[files]]
-file = "mods/omnichest-1.1.0.jar"
-hash = "7fa2d31dc999e8e50fd33df79f0a770920e860a40ce8e52d5b264920bed06125"
+file = "mods/omnichest-1.1.1.jar"
+hash = "4279421df977d2213535cb51e533167cb0b756fc6d03f789562b886a849cf10c"
 
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
